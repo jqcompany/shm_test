@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f97febf2-e447-41d0-af14-5a3101e46108" name="shm_test" url="http://sushi-master.cr50006.tmweb.ru">
+        <fileTransfer host="sushi-master.cr50006.tmweb.ru" port="21" rootFolder="/public_html" password="dfeedff0df9fdfd3dfe1df9cdfe9dfed" username="cr50006_sushi">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
