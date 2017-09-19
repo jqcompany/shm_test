@@ -2,7 +2,7 @@
 require($_SERVER["DOCUMENT_ROOT"]."/bitrix/header.php");
 $APPLICATION->SetTitle("Акции3");
 $APPLICATION->SetPageProperty("bg-header", "baner-stock.jpg");
-//test
+//новая правка тут
 ?>
 <form id="myform">
 <input type="text" name="field1" id="field1" class="required" />
